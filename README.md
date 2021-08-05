@@ -5,3 +5,4 @@
 3. Run "npm start" to start the webpack bundler.
 4. Run "npm run start-server" to start the backend server.
 5. Replace the "API_KEY" in "getGeocodedAddress" method in "./client/src/components/App.jsx" with a TomTom Developers API Key.
+6. The app is available at "http://localhost:8080/".
