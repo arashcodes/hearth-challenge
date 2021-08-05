@@ -5,7 +5,7 @@ import Homes from './Homes';
 import encodeUrl from 'encodeurl';
 import axios from 'axios';
 
-import API_KEY from '../../../private';
+// import API_KEY from '../../../private';
 
 
 const styles = {
